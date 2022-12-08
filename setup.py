@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="test jay",
-    version="1.0.0",
+    version="1.1.0",
     author="jay.ji",
     author_email="test@gmail.com",
     description="backend service common modules package",
